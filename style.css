@@ -46,6 +46,7 @@ button {
 }
 .container {
   width: 500px;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.669);
   background-color: rgba(0, 0, 0, 0.895);
   color: white;
   border-top-right-radius: 20px;
